@@ -30,7 +30,7 @@ List of content
 
 # Community
 * [Official Community](https://community.libra.org/)
-* [Telegram: Libra Devs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
+* [Telegram: Libra Devs](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ)
 
 ## License
 
