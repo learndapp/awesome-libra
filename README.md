@@ -7,6 +7,7 @@ List of content
 - [Open Source wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [JavaScript Libraries](#javascript-libraries)
+- [Python Libraries](#python-libraries)
 - [Read](#read)
 - [Community](#community)
 
@@ -29,6 +30,9 @@ List of content
 # JavaScript Libraries
 * [libra-api](https://github.com/bonustrack/libra-api) - A REST API for Libra blockchain.
 * [libra-grpc](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for Libra.
+
+# Python Libraries
+* [libra-grpc-py](https://github.com/egorsmkv/libra-grpc-py) - gRPC client for Libra in Python.
 
 # Read
 * [Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
