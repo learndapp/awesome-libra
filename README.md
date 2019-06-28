@@ -8,6 +8,7 @@ List of content
 - [Blockchain Explorers](#blockchain-explorers)
 - [JavaScript Libraries](#javascript-libraries)
 - [Python Libraries](#python-libraries)
+- [Go Libraries](#go-libraries)
 - [Read](#read)
 - [Community](#community)
 
@@ -33,6 +34,9 @@ List of content
 
 # Python Libraries
 * [libra-grpc-py](https://github.com/egorsmkv/libra-grpc-py) - gRPC client for Libra in Python.
+
+# Go Libraries
+* [libra_example](https://github.com/phlip9/libra_example) - Example Libra Go client SDK.
 
 # Read
 * [Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
