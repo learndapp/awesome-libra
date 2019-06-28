@@ -13,13 +13,17 @@ List of content
 
 # Documentation
 * [Official Docs](https://developers.libra.org/docs/welcome-to-libra) Welcome to the Libra developer site
+* [Whitepaper](https://libra.org/en-US/white-paper/)
+* [Move Language](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
 
 # Open Source Wallets
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) POC Libra wallet
 
 # Blockchain Explorers
+* [librabrowser](https://librabrowser.io/?fbclid=IwAR1LjpGiLWwW3oIFHnM3dm6H47H6D2R0dRAsqjmCcJSNtpW7yCcJu1ud2hE) Libra Testnet Explorer
 * [libratics](http://libratics.com) Libratics is a Libra Analytics (Testnet)
 * [libravista](http://libravista.com)
+
 
 # JavaScript Libraries
 * [libra-api](https://github.com/bonustrack/libra-api) A REST API for Libra blockchain
