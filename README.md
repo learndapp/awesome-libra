@@ -12,23 +12,23 @@ List of content
 
 
 # Documentation
-* [Official Docs](https://developers.libra.org/docs/welcome-to-libra) Welcome to the Libra developer site
+* [Official Docs](https://developers.libra.org/docs/welcome-to-libra) - Welcome to the Libra developer site.
 * [Whitepaper](https://libra.org/en-US/white-paper/)
 * [Move Language](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
 
 # Open Source Wallets
-* [Libra Wallet Poc](https://dev.kulap.io/libra/) POC Libra wallet
-* [libra wallet](https://github.com/dpikalov/libra-wallet) wallet frontend
+* [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
+* [libra wallet](https://github.com/dpikalov/libra-wallet) - Wallet frontend, don't have backend.
 
 # Blockchain Explorers
-* [librabrowser](https://librabrowser.io/?fbclid=IwAR1LjpGiLWwW3oIFHnM3dm6H47H6D2R0dRAsqjmCcJSNtpW7yCcJu1ud2hE) Libra Testnet Explorer
-* [libratics](http://libratics.com) Libratics is a Libra Analytics (Testnet)
+* [librabrowser](https://librabrowser.io/?fbclid=IwAR1LjpGiLWwW3oIFHnM3dm6H47H6D2R0dRAsqjmCcJSNtpW7yCcJu1ud2hE) - Libra Testnet Explorer.
+* [libratics](http://libratics.com) - Libratics is a Libra Analytics (Testnet).
 * [libravista](http://libravista.com)
 
 
 # JavaScript Libraries
-* [libra-api](https://github.com/bonustrack/libra-api) A REST API for Libra blockchain
-* [libra-grpc](https://github.com/bonustrack/libra-grpc) A lightweight JavaScript library for Libra
+* [libra-api](https://github.com/bonustrack/libra-api) - A REST API for Libra blockchain.
+* [libra-grpc](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for Libra.
 
 # Read
 * [Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
