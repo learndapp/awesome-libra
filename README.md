@@ -30,6 +30,7 @@ List of content
 
 
 # JavaScript Libraries
+* [libra-core](https://github.com/perfectmak/libra-core) - A javascript client for libra network.
 * [libra-api](https://github.com/bonustrack/libra-api) - A REST API for Libra blockchain.
 * [libra-grpc](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for Libra.
 
@@ -41,6 +42,7 @@ List of content
 
 # Playgrounds
 * [libraide](https://libraide.com/) - Libra Move contract editor.
+* [chainide](https://chainide.com/) - It enables developers to efficiently utilise move.
 
 # Read
 * [Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
