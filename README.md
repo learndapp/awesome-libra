@@ -41,6 +41,7 @@ List of content
 
 # Go Libraries
 * [libra_example](https://github.com/phlip9/libra_example) - Example Libra Go client SDK.
+* [Libra Golang Client](https://github.com/codemaveric/libra-go) - Go Client for interacting with Libra Blockchain.
 
 # Playgrounds
 * [libraide](https://libraide.com/) - Libra Move contract editor.
