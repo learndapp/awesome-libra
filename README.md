@@ -40,8 +40,9 @@ List of content
 * [libra-grpc-py](https://github.com/egorsmkv/libra-grpc-py) - gRPC client for Libra in Python.
 
 # Go Libraries
-* [libra_example](https://github.com/phlip9/libra_example) - Example Libra Go client SDK.
 * [Libra Golang Client](https://github.com/codemaveric/libra-go) - Go Client for interacting with Libra Blockchain.
+* [Libra SDK for Go](https://github.com/philippgille/libra-sdk-go) - Go SDK for Libra.
+* [libra_example](https://github.com/phlip9/libra_example) - Example Libra Go client SDK.
 
 # Playgrounds
 * [libraide](https://libraide.com/) - Libra Move contract editor.
