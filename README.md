@@ -12,6 +12,7 @@ List of content
 - [Go Libraries](#go-libraries)
 - [Playgrounds](#playgrounds)
 - [Read](#read)
+- [Video](#video)
 - [Community](#community)
 
 
@@ -49,6 +50,9 @@ List of content
 * [Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
 * [Calibra wallet](https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/) - New Digital Wallet for a New Digital Currency, coming in 2020.
 * [Libra区块链钱包开发实录附源码 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/libra/01/libra-wallet.md)
+
+# Video
+* [Facebook发布Libra，颠覆金融业，干掉比特币?](https://www.youtube.com/watch?v=qG3oBuZoOxM)
 
 # Community
 * [Official Community](https://community.libra.org/)
