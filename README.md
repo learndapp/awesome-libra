@@ -54,6 +54,7 @@ List of content
 * [Libra区块链钱包开发实录附源码 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/libra/01/libra-wallet.md)
 
 # Video
+* [The Libra Blockchain (Paper Review)](https://youtu.be/dcAqb0wBl5g) - Talk about the design by reviewing the technical whitepaper.
 * [Facebook发布Libra，颠覆金融业，干掉比特币?](https://www.youtube.com/watch?v=qG3oBuZoOxM)
 
 # Community
