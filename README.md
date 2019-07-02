@@ -20,6 +20,7 @@ List of content
 * [Official Docs](https://developers.libra.org/docs/welcome-to-libra) - Welcome to the Libra developer site.
 * [Whitepaper](https://libra.org/en-US/white-paper/)
 * [Move Language](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
+* [官方文档中文翻译](https://learnblockchain.cn/docs/libra/docs/welcome-to-libra/)
 
 # Open Source Wallets
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
