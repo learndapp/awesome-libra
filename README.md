@@ -61,6 +61,7 @@ List of content
 # Community
 * [Official Community](https://community.libra.org/)
 * [Telegram: Libra Devs](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ)
+* [Libra技术讨论微信群](https://mp.weixin.qq.com/s/UcaMPY6RZAWWoh6kn4Cx1Q)
 
 ## License
 
