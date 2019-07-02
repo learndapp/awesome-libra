@@ -56,6 +56,7 @@ List of content
 # Video
 * [The Libra Blockchain (Paper Review)](https://youtu.be/dcAqb0wBl5g) - Talk about the design by reviewing the technical whitepaper.
 * [Facebook发布Libra，颠覆金融业，干掉比特币?](https://www.youtube.com/watch?v=qG3oBuZoOxM)
+* [Google Coin vs Facebook Libra](https://www.youtube.com/watch?v=uJzUkCKYPDw)
 
 # Community
 * [Official Community](https://community.libra.org/)
