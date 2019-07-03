@@ -10,6 +10,7 @@ List of content
 - [JavaScript Libraries](#javascript-libraries)
 - [Python Libraries](#python-libraries)
 - [Go Libraries](#go-libraries)
+- [Java Libraries](#java-libraries)
 - [Playgrounds](#playgrounds)
 - [Read](#read)
 - [Video](#video)
@@ -44,6 +45,9 @@ List of content
 * [Libra Golang Client](https://github.com/codemaveric/libra-go) - Go Client for interacting with Libra Blockchain.
 * [Libra SDK for Go](https://github.com/philippgille/libra-sdk-go) - Go SDK for Libra.
 * [libra_example](https://github.com/phlip9/libra_example) - Example Libra Go client SDK.
+
+# Java Libraries
+* [jlibra](https://github.com/ketola/jlibra) - A Java library for interacting with the Libra blockchain.
 
 # Playgrounds
 * [libraide](https://libraide.com/) - Libra Move contract editor.
