@@ -40,6 +40,7 @@ List of content
 
 # Python Libraries
 * [libra-grpc-py](https://github.com/egorsmkv/libra-grpc-py) - gRPC client for Libra in Python.
+* [PyLibra](https://github.com/bandprotocol/pylibra) - Python SDK client for Libra with full client-side functionality.
 
 # Go Libraries
 * [Libra Golang Client](https://github.com/codemaveric/libra-go) - Go Client for interacting with Libra Blockchain.
