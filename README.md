@@ -50,6 +50,9 @@ List of content
 # Java Libraries
 * [jlibra](https://github.com/ketola/jlibra) - A Java library for interacting with the Libra blockchain.
 
+# Utilities
+* [libra-utils](https://github.com/Berkays/libra-util) - Interface to Libra CLI commands to simplify parsing.
+
 # Playgrounds
 * [libraide](https://libraide.com/) - Libra Move contract editor.
 * [chainide](https://chainide.com/) - It enables developers to efficiently utilise move.
