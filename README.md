@@ -38,6 +38,7 @@ List of content
 * [libra-core](https://github.com/perfectmak/libra-core) - A javascript client for libra network.
 * [libra-api](https://github.com/bonustrack/libra-api) - A REST API for Libra blockchain.
 * [libra-grpc](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for Libra.
+* [libra-web](https://github.com/bandprotocol/libra-web) - Unofficial Javascript Client for Libra Blockchain.
 
 # Python Libraries
 * [libra-grpc-py](https://github.com/egorsmkv/libra-grpc-py) - gRPC client for Libra in Python.
