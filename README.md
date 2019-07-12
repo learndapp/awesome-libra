@@ -50,6 +50,7 @@ List of content
 * [libra_example](https://github.com/phlip9/libra_example) - Example Libra Go client SDK.
 
 # Java Libraries
+* [libraj](https://github.com/libra-vista/libraj) - A Java client for libra.
 * [jlibra](https://github.com/ketola/jlibra) - A Java library for interacting with the Libra blockchain.
 
 # Utilities
