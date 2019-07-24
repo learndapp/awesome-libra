@@ -27,6 +27,7 @@ List of content
 # Open Source Wallets
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
 * [libra wallet](https://github.com/dpikalov/libra-wallet) - Wallet frontend, don't have backend.
+* [LibraTerminal](https://github.com/sns254/LibraTerminal) – POC command line wallet.
 
 # Blockchain Explorers
 * [ilibraExplorer](https://ilibraexplorer.com/) - Blockchain Explorer for Libra.
