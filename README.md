@@ -55,9 +55,9 @@ List of content
 
 # Java Libraries
 * [libraj](https://github.com/libra-vista/libraj) - A Java client for libra.
+* [jlibra](https://github.com/ketola/jlibra) - A Java library for interacting with the Libra blockchain.
 * [jlibra-spring-boot-starter](https://github.com/ice09/jlibra-spring-boot-starter) - Spring Boot Starter project based on jlibra.
 * [java-libra-client](https://github.com/ice09/java-libra-client) - Java Shell for Libra based on jlibra-spring-boot-starter and jlibra. 
-* [jlibra](https://github.com/ketola/jlibra) - A Java library for interacting with the Libra blockchain.
 
 # Utilities
 * [libra-utils](https://github.com/Berkays/libra-util) - Interface to Libra CLI commands to simplify parsing.
