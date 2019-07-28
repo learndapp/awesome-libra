@@ -27,6 +27,7 @@ List of content
 # Open Source Wallets
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
 * [libra wallet](https://github.com/dpikalov/libra-wallet) - Wallet frontend, don't have backend.
+* [LibraTerminal](https://github.com/sns254/LibraTerminal) – POC command line wallet.
 
 # Blockchain Explorers
 * [ilibraExplorer](https://ilibraexplorer.com/) - Blockchain Explorer for Libra.
@@ -55,13 +56,14 @@ List of content
 # Java Libraries
 * [libraj](https://github.com/libra-vista/libraj) - A Java client for libra.
 * [jlibra](https://github.com/ketola/jlibra) - A Java library for interacting with the Libra blockchain.
+* [jlibra-spring-boot-starter](https://github.com/ice09/jlibra-spring-boot-starter) - Spring Boot Starter project based on jlibra.
+* [java-libra-client](https://github.com/ice09/java-libra-client) - Java Shell for Libra based on jlibra-spring-boot-starter and jlibra. 
 
 # Utilities
 * [libra-utils](https://github.com/Berkays/libra-util) - Interface to Libra CLI commands to simplify parsing.
 
 # Playgrounds
 * [libraide](https://libraide.com/) - Libra Move contract editor.
-* [chainide](https://chainide.com/) - It enables developers to efficiently utilise move.
 
 # Read
 * [Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
