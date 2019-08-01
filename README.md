@@ -5,7 +5,7 @@ A Curated List of Awesome Libra Resources
 List of content
 
 - [Documentation](#documentation)
-- [Open Source wallets](#open-source-wallets)
+- [Open Source Wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [JavaScript Libraries](#javascript-libraries)
 - [Python Libraries](#python-libraries)
@@ -23,6 +23,7 @@ List of content
 * [Whitepaper](https://libra.org/en-US/white-paper/)
 * [Move Language](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
 * [官方文档中文翻译](https://learnblockchain.cn/docs/libra/docs/welcome-to-libra/)
+* [Libra China Documenttation](https://developers.libra-china.org/docs/welcome-to-libra/index.html) - 中文官方开发文档 by Libra中国
 
 # Open Source Wallets
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
@@ -34,9 +35,10 @@ List of content
 * [librabrowser](https://librabrowser.io/?fbclid=IwAR1LjpGiLWwW3oIFHnM3dm6H47H6D2R0dRAsqjmCcJSNtpW7yCcJu1ud2hE) - Libra Testnet Explorer.
 * [libratics](http://libratics.com) - Libratics is a Libra Analytics (Testnet).
 * [libravista](http://libravista.com)
-* [LibraBlock](https://librablock.io)
+* [LibraBlock](https://librablock.io) - First opensource Libra explorer
+  * [librablock-frontend](https://github.com/libra-china-org/librablock-frontend) - Open source frontend
+  * [librablock-backend](https://github.com/libra-china-org/librabock-backend) - Open source backend
 * [Libranaut](https://libranaut.io/) - Possibly the first for Libra.
-
 
 # JavaScript Libraries
 * [libra-core](https://github.com/perfectmak/libra-core) - A javascript client for libra network.
@@ -62,6 +64,7 @@ List of content
 
 # Utilities
 * [libra-utils](https://github.com/Berkays/libra-util) - Interface to Libra CLI commands to simplify parsing.
+* [pLIBRA](https://plibra.io) - A privacy-preserving Libra Coin on Polkadot ecosystem.
 
 # Playgrounds
 * [libraide](https://libraide.com/) - Libra Move contract editor.
@@ -81,6 +84,9 @@ List of content
 * [Official Community](https://community.libra.org/)
 * [Telegram: Libra Devs](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ)
 * [Libra技术讨论微信群](https://mp.weixin.qq.com/s/UcaMPY6RZAWWoh6kn4Cx1Q)
+* [LibraChina](https://libra-china.org) - Libra中国社区
+  * [Community](https://community.libra-china.org) - 中文论坛
+* [Libra节点公众号](https://mp.weixin.qq.com/s/gIYcGIAa9TO8NCB3_xGxGQ)
 
 ## License
 
