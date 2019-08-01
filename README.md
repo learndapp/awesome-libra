@@ -49,6 +49,7 @@ List of content
 * [PyLibra](https://github.com/bandprotocol/pylibra) - Python SDK client for Libra with full client-side functionality.
 
 # Go Libraries
+* [go-libra](https://github.com/the729/go-libra) - Libra go client library with crypto verifications.
 * [Libra Golang Client](https://github.com/codemaveric/libra-go) - Go Client for interacting with Libra Blockchain.
 * [Libra SDK for Go](https://github.com/philippgille/libra-sdk-go) - Go SDK for Libra.
 * [libra_example](https://github.com/phlip9/libra_example) - Example Libra Go client SDK.
