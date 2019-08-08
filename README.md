@@ -32,7 +32,7 @@ List of content
 
 # Blockchain Explorers
 * [ilibraExplorer](https://ilibraexplorer.com/) - Blockchain Explorer for Libra.
-* [librabrowser](https://librabrowser.io/?fbclid=IwAR1LjpGiLWwW3oIFHnM3dm6H47H6D2R0dRAsqjmCcJSNtpW7yCcJu1ud2hE) - Libra Testnet Explorer.
+* [librabrowser](https://librabrowser.io/?fbclid=IwAR1LjpGiLWwW3oIFHnM3dm6H47H6D2R0dRAsqjmCcJSNtpW7yCcJu1ud2hE) - Libra Testnet Explorer and its [source code](https://github.com/Disk1n/LibraBrowser).
 * [libratics](http://libratics.com) - Libratics is a Libra Analytics (Testnet).
 * [libravista](http://libravista.com)
 * [LibraBlock](https://librablock.io) - First opensource Libra explorer
