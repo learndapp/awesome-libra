@@ -39,6 +39,7 @@ List of content
   * [librablock-frontend](https://github.com/libra-china-org/librablock-frontend) - Open source frontend
   * [librablock-backend](https://github.com/libra-china-org/librabock-backend) - Open source backend
 * [Libranaut](https://libranaut.io/) - Possibly the first for Libra.
+* [Jibra](http://explorer.jibra.org) - Libra Testnet Explorer, made in Japan. 
 
 # JavaScript Libraries
 * [libra-core](https://github.com/perfectmak/libra-core) - A javascript client for libra network.
