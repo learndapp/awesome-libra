@@ -29,8 +29,10 @@ List of content
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
 * [libra wallet](https://github.com/dpikalov/libra-wallet) - Wallet frontend, don't have backend.
 * [LibraTerminal](https://github.com/sns254/LibraTerminal) – POC command line wallet.
+* [Libra Wallet Chrome Extension](https://chrome.google.com/webstore/detail/libra-wallet-poc-chrome-e/hgbfjdbadjhmkmkjfikijdjakeajbaol?utm_source=chrome-ntp-icon) - Libra Chrome Extension with some api inspired by web3
 
 # Blockchain Explorers
+* [LibExplorer](https://libexplorer.com/) - Libra Testnet Blockchain Explorer
 * [ilibraExplorer](https://ilibraexplorer.com/) - Blockchain Explorer for Libra.
 * [librabrowser](https://librabrowser.io/?fbclid=IwAR1LjpGiLWwW3oIFHnM3dm6H47H6D2R0dRAsqjmCcJSNtpW7yCcJu1ud2hE) - Libra Testnet Explorer and its [source code](https://github.com/Disk1n/LibraBrowser).
 * [libratics](http://libratics.com) - Libratics is a Libra Analytics (Testnet).
@@ -43,6 +45,7 @@ List of content
 
 # JavaScript Libraries
 * [libra-core](https://github.com/perfectmak/libra-core) - A javascript client for libra network.
+* [Kulap-libra-core](https://github.com/kulapio/libra-core) - An updated javascript client forked from perfectmak
 * [libra-api](https://github.com/bonustrack/libra-api) - A REST API for Libra blockchain.
 * [libra-grpc](https://github.com/bonustrack/libra-grpc) - A lightweight JavaScript library for Libra.
 * [libra-web](https://github.com/bandprotocol/libra-web) - Unofficial Javascript Client for Libra Blockchain.
@@ -61,7 +64,10 @@ List of content
 * [libraj](https://github.com/libra-vista/libraj) - A Java client for libra.
 * [jlibra](https://github.com/ketola/jlibra) - A Java library for interacting with the Libra blockchain.
 * [jlibra-spring-boot-starter](https://github.com/ice09/jlibra-spring-boot-starter) - Spring Boot Starter project based on jlibra.
-* [java-libra-client](https://github.com/ice09/java-libra-client) - Java Shell for Libra based on jlibra-spring-boot-starter and jlibra. 
+* [java-libra-client](https://github.com/ice09/java-libra-client) - Java Shell for Libra based on jlibra-spring-boot-starter and jlibra.
+
+# C# Libraries
+* [LibraNet](https://github.com/kulapio/libra-core) - Libra .Net Core SDK
 
 # Utilities
 * [libra-utils](https://github.com/Berkays/libra-util) - Interface to Libra CLI commands to simplify parsing.
