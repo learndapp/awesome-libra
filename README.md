@@ -24,6 +24,7 @@ List of content
 * [Move Language](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
 * [官方文档中文翻译](https://learnblockchain.cn/docs/libra/docs/welcome-to-libra/)
 * [Libra China Documenttation](https://developers.libra-china.org/docs/welcome-to-libra/index.html) - 中文官方开发文档 by Libra中国
+* [Move Book](https://move-book.com/)
 
 # Open Source Wallets
 * [Libra Wallet Poc](https://dev.kulap.io/libra/) - POC Libra wallet.
@@ -41,7 +42,7 @@ List of content
   * [librablock-frontend](https://github.com/libra-china-org/librablock-frontend) - Open source frontend
   * [librablock-backend](https://github.com/libra-china-org/librabock-backend) - Open source backend
 * [Libranaut](https://libranaut.io/) - Possibly the first for Libra.
-* [Jibra](http://explorer.jibra.org) - Libra Testnet Explorer, made in Japan. 
+* [Jibra](http://explorer.jibra.org) - Libra Testnet Explorer, made in Japan.
 
 # JavaScript Libraries
 * [libra-core](https://github.com/perfectmak/libra-core) - A javascript client for libra network.
@@ -72,9 +73,13 @@ List of content
 # Utilities
 * [libra-utils](https://github.com/Berkays/libra-util) - Interface to Libra CLI commands to simplify parsing.
 * [pLIBRA](https://plibra.io) - A privacy-preserving Libra Coin on Polkadot ecosystem.
+* [Move Language Server](https://github.com/dfinance/move-tools) - Language Server Protocol implementation for Move VM
 
 # Playgrounds
 * [libraide](https://libraide.com/) - Libra Move contract editor.
+
+# IDE
+* [Move IDE for VSCode](https://github.com/damirka/vscode-move-ide) - syntax highlight, error highlighting (thanks to Language Server), and built-in code runner
 
 # Read
 * [Building your own Wallet and APIs](https://medium.com/kulapofficial/the-first-libra-wallet-poc-building-your-own-wallet-and-apis-3cb578c0bd52)
